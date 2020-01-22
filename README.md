@@ -8,7 +8,7 @@ This git repository contains the following files:
 - gs_functions.py: this file contains the key functions used in main.py for calibration and integration.
 - test_gs.py: this file contains the benchmarking code and unit tests to verify the accuracy of the numerical integration implemented in solve_ode in gs_functions.
 
-In addition to this, there is a folder called Data containing the files gs_mass.txt and gs_pressure.txt which contain the monthly reservoir mass flow rate and quarterly pressure data, respectively.
+In addition to this, there is a folder called Data containing the files gs_mass.txt and gs_pressure.txt which contain the monthly reservoir mass flow rate and quarterly pressure data, respectively. Open 'Gas Storage Report.pdf' to read the full report.
 
 ## Usage
 
