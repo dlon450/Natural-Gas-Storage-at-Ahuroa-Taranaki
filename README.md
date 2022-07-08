@@ -1,4 +1,4 @@
-# Gas Storage Project
+# Ahuroa Gas Storage Leakage Study
 
 ## Description
 This project studies the pressure changes in the Ahuroa Gas Storage Site owned by FlexGas. By using calibration and numerical integration, it computes the gas leakage in the reservoir - both current and future.
